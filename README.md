@@ -1,5 +1,5 @@
 # crud_springboot_angular_postgresql
-Creación de un CRUD 
+Creación de un CRUD para creación de personas, para indicar de que pais y el estado. Teniendo las opciones de crear, eliminar, editar y visualizar los registros.
 
 ## Script SQL
 En el directorio SQL encontrara los Script a ejecutar:
@@ -26,8 +26,6 @@ Antes de ejecutarlo debes ingresar al archivo de scripts ```personaSCRIPT_BD_pai
 - Luego iniciar con el comando ```npm start```
 - El proyecto front visualizarlo en el navegador ```localhost:4200```
 
-### MaterialUI
-- Puede ejecutar este directorio front, con los pasos anteriores, y podras observar el diseño en material
 
 ## Consulta endpoint
 - Consulta paises - GET ```http://localhost:8080/pais/```
