@@ -7,7 +7,7 @@ En el directorio SQL encontrara los Script a ejecutar:
 - Luego de inicializar el proyecto Back ejecuta los script de ingresar datos a las tabla paises y estados.
 
 ## Backend
-En directorio personaBACKEND encontrara el proyecto creado Spring Boot el cual conecta a BD postgres.
+En directorio personaBACKEND encontrara el proyecto creado Spring Boot el cual conecta a BD postgres. Configurado para correr por defecto ```http://localhost:8080/```
 
 Antes de ejecutarlo debes ingresar al archivo de scripts ```personaSCRIPT_BD_paises_estado.sql```
 - Debe estar creada la BD persona_db en postgre
