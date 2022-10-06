@@ -44,9 +44,9 @@ Antes de ejecutarlo debes ingresar al archivo de scripts ```personaSCRIPT_BD_pai
 
 - Formulario para diligenciar datos de la persona, automaticamente trae de BD el pais y estado. Apareceran datos en caso de haber registros:
 
-![Image text](https://github.com/yadevom/peluqueria-canina/blob/main/img/app2.png)
+![Image text](https://github.com/yadevom/crud_springboot_postgre/blob/main/imgs/app0.png)
 
 - El boton guardar se habilita al estar diligenciado el formulario, automaticamente se muestra en la tabla al registrar, estan las opiones de edita y eliminar.
 
-![Image text](https://github.com/yadevom/peluqueria-canina/blob/main/img/app2.png)
+![Image text](https://github.com/yadevom/crud_springboot_postgre/blob/main/imgs/app1.png)
 
