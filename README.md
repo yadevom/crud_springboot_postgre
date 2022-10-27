@@ -16,6 +16,9 @@ Antes de ejecutarlo debes ingresar al archivo de scripts ```personaSCRIPT_BD_pai
 - Despues de los puntos anteriores ejecutar la aplicación
 - Comentar las últimas lineas ```application.properties``` para que no se vuelvan a crear las tablas y se pierdan los registros de estado y paises.
 
+### Pruebas Unitarias Mockito
+- Para realizar pruebas se utilizo la libreria de mockito
+
 ## FRONT
 - Directorio persona_front
 - Se desarrollo mediante el framework Angular

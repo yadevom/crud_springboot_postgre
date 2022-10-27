@@ -32,4 +32,8 @@ public class EstadoService {
         return estadosRespuesta;
     }
 
+    public List<Estado> findAll(Sort sort) {
+        return estadoRepository.findAll(sort);
+    }
+
 }
